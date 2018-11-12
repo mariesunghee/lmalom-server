@@ -1,0 +1,14 @@
+D:\LmalomServer\LmalomServer\bin\Debug\netcoreapp2.1\LmalomServer.deps.json
+D:\LmalomServer\LmalomServer\bin\Debug\netcoreapp2.1\LmalomServer.runtimeconfig.json
+D:\LmalomServer\LmalomServer\bin\Debug\netcoreapp2.1\LmalomServer.runtimeconfig.dev.json
+D:\LmalomServer\LmalomServer\bin\Debug\netcoreapp2.1\LmalomServer.dll
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.csprojAssemblyReference.cache
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.csproj.CoreCompileInputs.cache
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.RazorAssemblyInfo.cache
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.RazorAssemblyInfo.cs
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.AssemblyInfoInputs.cache
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.AssemblyInfo.cs
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.RazorTargetAssemblyInfo.cache
+D:\LmalomServer\LmalomServer\bin\Debug\netcoreapp2.1\LmalomServer.pdb
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.dll
+D:\LmalomServer\LmalomServer\obj\Debug\netcoreapp2.1\LmalomServer.pdb
