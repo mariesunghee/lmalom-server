@@ -9,7 +9,7 @@ namespace LmalomServer.Models
         [Key]
         public int Id { get; set; }
 
-        public string Name { get; set; }
+        public string Names { get; set; }
 
         public CategoryGroup Group { get; set; }
 
